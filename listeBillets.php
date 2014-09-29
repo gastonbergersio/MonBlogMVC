@@ -12,7 +12,7 @@
             <h1 class="titreBillet"><?= $billet['BIL_TITRE'] ?></h1>
             <time><?= $billet['BIL_DATE'] ?></time>
             <p><?= $billet['BIL_CONTENU'] ?></p>
-              <p><******************* ?></p>
+              <p><********************** ?></p>
         <!-- TODO Bonus : affichage du nombre de commentaires -->
     </article>
     <hr />
